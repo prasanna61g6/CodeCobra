@@ -25,6 +25,7 @@ A simple yet fun Snake Game built using "Python" and "Pygame". Eat the apples, g
 - Apple.jpg - used for the food
 
 ## Run the game
+https://github.com/prasanna61g6/CodeCobra/blob/main/game.py
 
 ## Controls
 
